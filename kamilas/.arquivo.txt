@@ -1,0 +1,4 @@
+Tue Oct 10 14:39:04 GMT 2017>> Login: vagrant
+Tue Oct 10 14:39:04 GMT 2017>> Senha: vagrant
+Tue Oct 10 14:39:12 GMT 2017>> Login: vagrant
+Tue Oct 10 14:39:12 GMT 2017>> Senha: mkljrf
