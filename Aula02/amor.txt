@@ -1,4 +1,5 @@
 amor
+<<<<<<< HEAD
 AMOR
 aMor
 amOr
@@ -6,6 +7,18 @@ AMOR
 aMoR
 roma
 ROMA
+=======
+Amor
+aMor
+amOr
+amoR
+AMor
+AMOr
+AMOR
+roma
+Roma
+rOma
+>>>>>>> d333ba408b41a9df1f0fca3b505a5357027f53a1
 roMa
 romA
 attr
@@ -13,3 +26,7 @@ abbr
 abc
 ab
 a
+<<<<<<< HEAD
+=======
+
+>>>>>>> d333ba408b41a9df1f0fca3b505a5357027f53a1
