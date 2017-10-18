@@ -1,8 +1,0 @@
-Tue Oct 10 14:30:49 GMT 2017>> 123
-Tue Oct 10 14:30:49 GMT 2017>> 123
-Tue Oct 10 14:30:52 GMT 2017>> 123
-Tue Oct 10 14:30:52 GMT 2017>> 123
-Tue Oct 10 14:32:32 GMT 2017>> Login: thales
-Tue Oct 10 14:32:32 GMT 2017>> Senha: rbdc9vtrc8d7972j97jyprvmg
-Tue Oct 10 14:32:47 GMT 2017>> Login: thales
-Tue Oct 10 14:32:47 GMT 2017>> Senha: rbdc9vtrc8d7972j97jyprvmg

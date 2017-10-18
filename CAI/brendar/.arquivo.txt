@@ -1,8 +1,0 @@
-Tue Oct 10 14:34:13 GMT 2017>> Login:  brenda
-Tue Oct 10 14:34:13 GMT 2017>> Senha: brenda
-Tue Oct 10 14:34:20 GMT 2017>> Login:  brenda
-Tue Oct 10 14:34:20 GMT 2017>> Senha: brenda
-Tue Oct 10 14:35:33 GMT 2017>> Login:  asdf
-Tue Oct 10 14:35:33 GMT 2017>> Senha: asdf
-Tue Oct 10 14:35:40 GMT 2017>> Login:  asdf
-Tue Oct 10 14:35:40 GMT 2017>> Senha: asdf
