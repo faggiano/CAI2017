@@ -1,0 +1,76 @@
+@charset UTF-8;
+body, p, a, table, span, img {
+	margin: 0;
+	padding: 0;
+	text-decoration: none;
+	outline: 0;
+}
+textarea:focus, input:focus, select:focus {
+	  box-shadow: 0 0 0 0;
+	  outline: 0;
+} 
+img {
+	width: 100%;
+	height: auto;
+}
+body {
+	background-color: #616468;
+}
+#interface {
+	background-color: rgba(0,0,0,.1);
+	border-radius: 10px;
+	width: 640px;
+	margin: auto;
+	padding: 10% 0 10% 0;
+	margin-top: 20%;
+}
+form {
+	width: 40%;
+	margin: 0 auto;
+}
+a {
+	color: #eee;
+	margin: auto;
+}
+p {
+	margin-top: 15px;
+	text-align: center;
+	text-shadow: 1px 1px 1px #303030;
+}
+.input {
+	border: none;
+	border-radius: 2px;
+	border-bottom: 2px solid #fff;
+	background-color: transparent;
+	color: #eee;
+	padding: 5px;
+	margin-top: 2px;
+	margin-bottom: 3px;
+}
+.button {
+	margin-right: 10px;
+	margin: 0 auto;
+	width: 95%;
+	border: none;
+	border-radius: 3px;
+	padding: 7px;
+	background-color: #444;
+	color: #eee;
+	text-shadow: 1px 1px 1px #222;
+}
+.login {
+	margin-top: 10px;
+}
+.transition {
+	transition: .2s;
+}
+p:hover {
+	transform: scale(1.05);
+	color: #888;
+}
+.login:hover {
+	background-color: #eee;
+	color: #444;
+	text-shadow: #eee;
+	cursor: pointer;
+}

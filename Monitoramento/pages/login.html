@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Login de Usuários</title>
+		<meta name="description" content="Está página é utilizada apenas para fazer o login de usuários do site">
+		<meta name="keywords" content="login,usuários,exemplos">
+		<meta http-equiv="X-UA-Compatible" content="IE-edge,chrome=1">
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+		<link rel="stylesheet" type="text/css" href="../css/login.css">
+		<link rel="stylesheet" type="text/css" href="../css/login-responsive-900px.css" media="screen and (max-width: 900px)">
+		<link rel="stylesheet" type="text/css" href="../css/login-responsive-700px.css" media="screen and (max-width: 700px)">
+		<link rel="stylesheet" type="text/css" href="../css/login-responsive-500px.css" media="screen and (max-width: 500px)">
+	</head>
+	<body>
+		<div id="interface">
+			<form method="POST" action="../cgi-bin/login.cgi" method="POST">
+				<input type="text" placeholder="Usuário" name="USER" class="input" maxlength="16"><br/>
+				<input type="password" placeholder="Senha" name="SENHA" class="input"maxlength="8"><br/>
+				<input type="submit" value="Logar" id="login" class="centralizar button login transition">
+			</form>
+			<a href="./esenha.html"><p class="transition">Esqueceu a senha?</p></a>
+		</div>
+	</body>
+</html>

@@ -1,0 +1,85 @@
+@charset UTF-8;
+
+body, p, a, table, span, img {
+	margin: 0;
+	padding: 0;
+	text-decoration: none;
+	outline: 0;
+}
+textarea:focus, input:focus, select:focus {
+	  box-shadow: 0 0 0 0;
+	  outline: 0;
+} 
+img {
+	width: 100%;
+	height: auto;
+}
+body {
+	background-color: #616468;
+}
+#interface {
+	background-color: rgba(0,0,0,.1);
+	border-radius: 10px;
+	width: 640px;
+	margin: auto;
+	padding: 10% 0 10% 0;
+	margin-top: 15%;
+}
+form {
+	width: 40%;
+	margin: 0 auto;
+}
+.input {
+	border: none;
+	border-radius: 2px;
+	border-bottom: 2px solid #fff;
+	background-color: transparent;
+	color: #eee;
+	width: 90%;
+	padding: 5px;
+	margin-top: 2px;
+	margin-bottom: 3px;
+	transition: all .5s;
+}
+.input:hover {
+	transform: scale(1.03);
+}
+.input:active {
+	transform: scale(0.95);
+}
+.button {
+	margin-right: 10px;
+	margin: 0 auto;
+	width: 95%;
+	border: none;
+	border-radius: 3px;
+	padding: 7px;
+	background-color: #444;
+	color: #eee;
+	text-shadow: 1px 1px 1px #222;
+}
+.cadastrar {
+	margin-top: 10px;
+}
+.transition {
+	transition: .2s;
+}
+.cadastrar:hover {
+	background-color: #eee;
+	color: #444;
+	text-shadow: #eee;
+	cursor: pointer;
+}
+.cadastrar:active {
+	transform: scale(0.93);
+}
+@media (max-width: 900px) {
+	#interface {
+		width: 70%;
+	}
+}
+@media (max-width: 700px) {
+	#interface {
+		width: 400px;
+	}
+}
