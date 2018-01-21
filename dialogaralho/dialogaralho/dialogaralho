@@ -1,0 +1,5 @@
+#!/bin/bash
+dialog --msgbox "Dialogaralho" 0 0
+source /usr/share/dialogaralho/dialogaralho2.sh
+source /usr/share/dialogaralho/dialogaralho3.sh
+
